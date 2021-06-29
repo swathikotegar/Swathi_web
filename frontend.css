@@ -1,0 +1,40 @@
+li
+{
+font-family: 'Open Sans', sans-serif;
+}
+
+
+h1{
+	margin-bottom: 20px;
+	margin-top: 20px;
+	
+	
+	/*padding: 5px;*/
+font-size: 45px;
+font-family: "Lucida Console", "Courier New", monospace;
+letter-spacing: 1px;
+}
+.para2{
+	padding: 30px;
+	text-align: center;
+}
+
+	
+	
+.space{
+	margin-top: 20px;
+}
+.images1{
+	text-align: center;
+}
+.Copyright{
+	background-color: black;
+	color: white;
+	text-align: center;
+margin-top: 20px;
+
+}
+.logo{
+	
+	text-align: center;
+}
